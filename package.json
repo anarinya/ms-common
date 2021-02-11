@@ -1,6 +1,6 @@
 {
-  "name": "@ms-ticket-tut/ms-common",
-  "version": "1.0.0",
+  "name": "@ms-tickets-tut/ms-common",
+  "version": "1.0.1",
   "description": "common lib for microservices tutorial",
   "main": "index.js",
   "scripts": {
